@@ -5,6 +5,15 @@ A bio-luminescent, terminal-inspired theme for Home Assistant — inspired by th
 Two flavors are included from a single install: **Metro Alien Blood** (flat, sharp-cornered) and **Fluent Alien Blood** (soft, rounded, slightly tinted) — both sharing one carefully-tuned typographic system.
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
+[![Validate](https://github.com/dhahaj/Alien-Blood-Theme-for-Hass/actions/workflows/validate.yml/badge.svg)](https://github.com/dhahaj/Alien-Blood-Theme-for-Hass/actions/workflows/validate.yml)
+
+---
+
+## Preview
+
+![Alien Blood theme preview](screenshots/preview.png)
+
+> Drop a screenshot at `screenshots/preview.png` and it will render here on the HACS info page.
 
 ---
 
