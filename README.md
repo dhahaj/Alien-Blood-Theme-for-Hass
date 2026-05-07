@@ -13,8 +13,6 @@ Two flavors are included from a single install: **Metro Alien Blood** (flat, sha
 
 ![Alien Blood theme preview](screenshots/preview.png)
 
-> Drop a screenshot at `screenshots/preview.png` and it will render here on the HACS info page.
-
 ---
 
 ## Highlights
