@@ -1070,6 +1070,99 @@ Fluent Slate:
       card-background-color: "rgb(240,242,244)"
       rgb-card-background-color: "240,242,244"
 
-  
+
+Metro Alien Blood:
+  <<: *common-card-mods
+  card-mod-theme: "Metro Alien Blood"
+
+  primary-color: "#2f7e25"
+  rgb-primary-color: "47,126,37"
+  rgb-primary-color-darker: "29,65,37"
+  rgb-primary-color-lighter: "115,250,145"
+  hue-primary-color: "113deg"
+
+  accent-color: "#73fa91"
+  rgb-accent-color: "115,250,145"
+
+  # Alien Blood semantic colors (from VS Code theme)
+  error-color: "#7f2b27"
+  rgb-error-color: "127,43,39"
+  warning-color: "#717f24"
+  rgb-warning-color: "113,127,36"
+  success-color: "#2f7e25"
+  rgb-success-color: "47,126,37"
+  info-color: "#327f77"
+  rgb-info-color: "50,127,119"
+
+  modes:
+    dark:
+      <<: *metro-common-dark
+      primary-background-color: "rgb(0,14,7)"
+      rgb-primary-background-color: "0,14,7"
+      secondary-background-color: "rgb(29,65,37)"
+      rgb-secondary-background-color: "29,65,37"
+      card-background-color: "rgb(15,22,16)"
+      rgb-card-background-color: "15,22,16"
+
+      primary-text-color: "rgb(99,125,117)"
+      rgb-primary-text-color: "99,125,117"
+      secondary-text-color: "rgba(99,125,117,.75)"
+      rgb-secondary-text-color: "74,94,88"
+
+      mdc-theme-surface: "rgb(15,22,16)"
+      rgb-mdc-theme-surface: "15,22,16"
+
+    light:
+      <<: *metro-common-light
+
+
+Fluent Alien Blood:
+  <<: *common-card-mods
+  card-mod-theme: "Fluent Alien Blood"
+
+  primary-color: "#2f7e25"
+  rgb-primary-color: "47,126,37"
+  rgb-primary-color-darker: "29,65,37"
+  rgb-primary-color-lighter: "115,250,145"
+  hue-primary-color: "113deg"
+
+  accent-color: "#73fa91"
+  rgb-accent-color: "115,250,145"
+
+  # Alien Blood semantic colors (from VS Code theme)
+  error-color: "#7f2b27"
+  rgb-error-color: "127,43,39"
+  warning-color: "#717f24"
+  rgb-warning-color: "113,127,36"
+  success-color: "#2f7e25"
+  rgb-success-color: "47,126,37"
+  info-color: "#327f77"
+  rgb-info-color: "50,127,119"
+
+  modes:
+    dark:
+      <<: *fluent-common-dark
+      primary-background-color: "rgb(0,14,7)"
+      rgb-primary-background-color: "0,14,7"
+      secondary-background-color: "rgb(29,65,37)"
+      rgb-secondary-background-color: "29,65,37"
+      card-background-color: "rgb(15,22,16)"
+      rgb-card-background-color: "15,22,16"
+
+      primary-text-color: "rgb(99,125,117)"
+      rgb-primary-text-color: "99,125,117"
+      secondary-text-color: "rgba(99,125,117,.75)"
+      rgb-secondary-text-color: "74,94,88"
+
+      mdc-theme-surface: "rgb(15,22,16)"
+      rgb-mdc-theme-surface: "15,22,16"
+
+    light:
+      <<: *fluent-common-light
+      secondary-background-color: "rgb(210,231,210)"
+      rgb-secondary-background-color: "210,231,210"
+      card-background-color: "rgb(239,245,239)"
+      rgb-card-background-color: "239,245,239"
+
 
 # Paste your custom color themes here.
