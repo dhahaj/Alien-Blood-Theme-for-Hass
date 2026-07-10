@@ -59,8 +59,8 @@ ________________________________________Common Base (Do Not Use): &common-colors
   popup-border-radius: var(--ha-dialog-border-radius)
 
   # Typography
-  font-stack: &font-stack "Segoe UI Variable Static Text, Segoe UI, SegoeUI, -apple-system,BlinkMacSystemFont, system-ui, sans-serif"
-  display-font-stack: &display-font-stack "Segoe UI Variable Static Display, Segoe UI, SegoeUI, -apple-system,BlinkMacSystemFont, system-ui, sans-serif"
+  font-stack: &font-stack "Segoe UI Variable Static Text, Segoe UI, -apple-system, BlinkMacSystemFont, system-ui, sans-serif"
+  display-font-stack: &display-font-stack "Segoe UI Variable Static Display, Segoe UI, -apple-system, BlinkMacSystemFont, system-ui, sans-serif"
   mdc-typography-button-font-family: var(--font-stack)
   mdc-typography-font-family: var(--font-stack)
   paper-font-common-base_-_font-family: var(--font-stack)

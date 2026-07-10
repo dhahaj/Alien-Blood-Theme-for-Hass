@@ -65,9 +65,9 @@ These aren't required, but the theme is designed with them in mind:
 ## Credits
 
 - Color palette inspired by the **Alien Blood** terminal / VS Code color scheme.
-- Bundled fonts: Segoe UI family in `www/` for local fallback.
+- Typography uses the system-installed Segoe UI stack with cross-platform fallbacks.
 - Thanks to the Home Assistant, HACS, card-mod, and Mushroom communities.
 
 ## License
 
-See the repository for license details.
+Released under the [MIT License](LICENSE).
